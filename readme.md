@@ -1,3 +1,1 @@
-This is my readme.
-
-Test. This is a test.
+Let's remove all text.
